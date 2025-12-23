@@ -1,4 +1,4 @@
-### Video 5: Understanding Unions and Any
+## Video 5: Understanding Unions and Any
 
 - TypeScript provides different ways to handle variables that may hold more than one type. Two important concepts are **Union Types** and **any**.
 
