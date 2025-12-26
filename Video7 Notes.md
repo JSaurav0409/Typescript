@@ -1,4 +1,4 @@
-# Type Assertion, `unknown`, `any`, and `never` in TypeScript
+# Video 7 Type Assertion, `unknown`, `any`, and `never` in TypeScript
 
 ### 1️⃣ Type Assertion
 
